@@ -1,0 +1,9 @@
+.header {
+  padding: 1em;
+  background: rgb(196, 196, 196);
+  box-shadow: 2px 0px 5px 1px rgb(189, 189, 189);
+}
+
+.header h3 {
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+.schedule_interview {
+  width: 40%;
+  height: 90vh;
+  display: grid;
+  place-items: center;
+}
+
+.schedule_form {
+  width: 70%;
+  padding: 2em;
+  box-shadow: 0px 0px 5px 2px rgb(176, 174, 253);
+  background-color: #fff;
+  margin-right: 2em;
+}
+
+.schedule_form h4 {
+  text-align: center;
+  color: blue;
+}
+
+input[type="datetime-local"] {
+  width: 100%;
+  padding: 0.4em;
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 5px;
+}

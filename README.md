@@ -1,6 +1,6 @@
 # interview_schedule
 
-Live: https://scheduler-a4a5a.web.app/
+Live: https://interview-scheduler-7ab9f.web.app/
 
 ## To run server
 1. cd backend
